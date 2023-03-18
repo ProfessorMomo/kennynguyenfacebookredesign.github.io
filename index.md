@@ -1,4 +1,4 @@
-# Facebook Redesign Case Study
+Looking at how to redesign Facebook's UI/UX in order to facilitate community engagement with the 65+ community.
 
 # Milestone 1
 
