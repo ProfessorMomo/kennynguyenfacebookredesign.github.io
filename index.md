@@ -35,6 +35,8 @@ After conducting interviews with three residents, the main findings that our gro
 # Competitive Audit
 Now in the brainstorming phase of the project, our group looked at other social media apps to determine which features we liked the best from each app and how they would fit into our redesign. We specifically looked at Twitter, Pinterest, Discord, and Reddit as we have used these apps before and enjoyed their ease of use. The competitive audit below describes our findings for these apps.
 
+<img src="assets/Competitor_Flow.png" class="center">
+
 # Milestone 6
 
 # Milestone 7
