@@ -16,7 +16,7 @@ We plan to design a way for elderly people to connect with others based on share
 
 We have definitely witnessed in the case of our grandparents that they would be lonely and bored throughout the days since they cannot be as mobile as they used to. In Yash’s case, his grandparents were in India while he and his family were in the United States, so the physical isolation was a challenge for their mental health. Seniors may not have the energy to meet new people around them and they may be seeing their friends get sick. Mental health with seniors is an overlooked topic and we believe this would be an impactful project.
 
-[1] https://www.cdc.gov/aging/pdf/mental_health.pdf
+<a href="https://www.cdc.gov/aging/pdf/mental_health.pdf">[1] https://www.cdc.gov/aging/pdf/mental_health.pdf</a>
 
 
 # User Research Methods
