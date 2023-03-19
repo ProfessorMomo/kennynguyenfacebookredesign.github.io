@@ -22,7 +22,7 @@ We have definitely witnessed in the case of our grandparents that they would be 
 # User Research Methods
 To gather information about our target demographic, our group interviewed residents as Belmont Village, a local retirement community in La Jolla, to gain insight on the current problems with the Facebook UI. We used two main methods of interviewing: direction observation and general questions.  Direct observation allows us to identify breakdowns in the current flow of Facebook, which are opportunities for us to develop a feature that is truly impactful. The general questions allow us to gain a focused idea of specific users, their past experiences, and general problems they have while using the app.
 
-<img src="/assets/facebookflyer.png">
+<img src="assets/facebookflyer.png">
 
 
 # Milestone 4
