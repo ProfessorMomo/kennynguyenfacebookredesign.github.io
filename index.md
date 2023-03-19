@@ -37,9 +37,14 @@ Now in the brainstorming phase of the project, our group looked at other social 
 
 <img src="assets/Competitor_Flow.png" class="center">
 
-# Milestone 6
+# Initial UX Flows and Sketches
+From the interviews and competitive audit we conducted, we have come up with a preliminary idea of how we wanted our redeisgn to function as shown by the UX flow below.
+
+<img src="assets/Revised UX Flow Diagram.png" class="center">
+
 
 # Milestone 7
+
 
 
 
