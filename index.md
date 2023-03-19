@@ -23,15 +23,17 @@ We have definitely witnessed in the case of our grandparents that they would be 
 To gather information about our target demographic, our group interviewed residents as Belmont Village, a local retirement community in La Jolla, to gain insight on the current problems with the Facebook UI. We used two main methods of interviewing: direction observation and general questions.  Direct observation allows us to identify breakdowns in the current flow of Facebook, which are opportunities for us to develop a feature that is truly impactful. The general questions allow us to gain a focused idea of specific users, their past experiences, and general problems they have while using the app.
 
 <img src="assets/facebookflyer.png" class="center">
+
 Poster used to advertise our project and find interviewees at Belmont Village
 
 
 # Research Findings
-After conducting interviews with three residents, the main findings that our group found was that the 65+ community was in line with our initial thoughts. They stated that they mainly use Facebook to maintain contact with their friends and family - not to make new friends - and typically belong to communities based on similar interests or beliefs. Another really impactful finding we discovered was that many of the interviewees believe that Facebook itself has a challenging interface to navigate. This would help us keep accessability in mind when brainstorming a new UI. Below are the personas we have created based on the information gathered from the interviews.
+After conducting interviews with three residents, the main findings that our group found was that the 65+ community was in line with our initial thoughts. They stated that they mainly use Facebook to maintain contact with their friends and family - not to make new friends - and typically belong to communities based on similar interests or beliefs. Another really impactful finding we discovered was that many of the interviewees believe that Facebook itself has a challenging interface to navigate. This would help us keep accessability in mind when brainstorming a new UI. Below are the personas we have created based on the information gathered from the interviews that helped us determine which core members of our demographic we would be targeting.
 
 
 
-# Milestone 5
+# Competitive Audit
+Now in the brainstorming phase of the project, our group looked at other social media apps to determine which features we liked the best from each app and how they would fit into our redesign. We specifically looked at Twitter, Pinterest, Discord, and Reddit as we have used these apps before and enjoyed their ease of use. The competitive audit below describes our findings for these apps.
 
 # Milestone 6
 
