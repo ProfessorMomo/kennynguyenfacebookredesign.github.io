@@ -49,7 +49,15 @@ Flow 2: The first step of the flow diagram in Flow 2 remains the same as Flow 1,
 # UI Sketches
 Using the flows created above, our team went ahead and created some preliminary sketches of Facebook's UI that would be the foundation of our final redesign. We sketched these screens in a mobile phone scaling as the interviewees stated that they mainly used Facebook on their mobile phones.
 
+(Titles begin with the upper lefthand most image and progress clockwise)
+
 <img src="assets/Frame 1.png" class="center">
+
+From creating 20 sketches of the user interface, we learned more about how different pages interact and flow into each other, giving us a better understanding of how much thought goes into making a user-friendly interface. Our sketches followed the UX flows we created above and had at least one sketch for each page in the UX flows. We also tested multiple iterations of more important pages such as the Social Page, Individual page, Messenger page, Home page, and Individual Post page. Our sketches took principles from each of the platforms we analyzed in the competitive audit. We aimed to use the strengths of each while learning from the weaknesses and avoiding the pitfalls of the competitors. For example, as Pinterest’s feed is extremely simple and visually appealing, we designed our Explore page to have a collage style like Pinterest’s. We also liked the simplicity of Twitter’s profile section and view when you click on a post. As seen in the design of our profile in flow 2, we can see an emphasis on reduction and spotlight on communities and hobbies. From our design, if we click a post, we can clearly see all the member interactions and tagged communities. Our sketches, especially for flow 2, were inspired by Discord because we like the functionality for switching between communities easily and being able to view all the members in the community with ease.
+
+# Low Fidelity Prototyping and User Testing
+To progress forward with our design, we transformed our sketches into low fidelity prototypes to help us present our ideas to our interviewees for additional feedback on our project. 
+
 
 
 
