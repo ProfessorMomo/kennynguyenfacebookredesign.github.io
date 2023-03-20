@@ -86,7 +86,14 @@ The interviewees stated that between the two versions of the social landing page
 
 # Final High Fidelity Mockups
 
-After gathering all of the feedback from the second round of user testing as well as general brainstorming to make any last minute changes, we have created our final redesigns as shown below. 
+After gathering all of the feedback from the second round of user testing as well as general brainstorming to make any last minute changes. Highlighted here are a couple of the changes we have implemented.
+
+<img src="assets/b4after1.png" class="center">
+<img src="assets/b4after2.png" class="center">
+
+
+
+And here are all of the final redesigns below!
 
 <img src="assets/final2.png" class="center">
 <img src="assets/final1.png" class="center">
