@@ -91,6 +91,9 @@ After gathering all of the feedback from the second round of user testing as wel
 <img src="assets/final2.png" class="center">
 <img src="assets/final1.png" class="center">
 
+# Reflection
+
+Throughout this project, I really learned a lot about the design process and felt really proud of my teammates and myself for creating this really impactful project. I always thought designers had some type of innate ability to create really amazing UI/UX layouts and never thought it was possible for someone like myself to do something of the sort. However, I realized that the design process is very iterative and it takes a lot of research and hard work to produce something worthwhile. I really enjoyed my time working on this project and believe that my group and I produced something that is very interesting as well as important in addressing an important issue in our society. 
 
 
 
