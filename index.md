@@ -60,6 +60,12 @@ To progress forward with our design, we transformed our sketches into low fideli
 
 <img src="assets/Frame 2.png" class="center">
 
+To reiterate, the goal of these redesigns was to make finding all of the key features of the app as easy to find as possible and accessible in the fewest number of taps from the home screen. So to test how well these design flows would work, we asked the same interviewees to perform basic tasks such as how to make a post or how to find an event in your area to see if our redesign was helpful in streamlining the UI or if we still needed to make improvements. 
+
+<img src="assets/User_Interview_3.png" class="center">
+<img src="assets/User_Interview_4.png" class="center">
+
+
 
 
 
