@@ -63,7 +63,17 @@ To progress forward with our design, we transformed our sketches into low fideli
 To reiterate, the goal of these redesigns was to make finding all of the key features of the app as easy to find as possible and accessible in the fewest number of taps from the home screen. So to test how well these design flows would work, we asked the same interviewees to perform basic tasks such as how to make a post or how to find an event in your area to see if our redesign was helpful in streamlining the UI or if we still needed to make improvements. 
 
 <img src="assets/User_Interview_3.jpg" class="center">
+
+Conducting the user testing in person with 10 printouts of the low fidelity prototypes
+
 <img src="assets/User_Interview_4.png" class="center">
+
+Conducting the user testing virtually with a Google Doc of the low fidelity prototypes
+
+# User Testing Findings
+
+
+
 
 
 
