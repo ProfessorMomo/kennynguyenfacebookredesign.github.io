@@ -88,6 +88,10 @@ The interviewees stated that between the two versions of the social landing page
 
 After gathering all of the feedback from the second round of user testing as well as general brainstorming to make any last minute changes, we have created our final redesigns as shown below. 
 
+<img src="assets/final2.png" class="center">
+<img src="assets/final1.png" class="center">
+
+
 
 
 
