@@ -72,6 +72,41 @@ Conducting the user testing virtually with a Google Doc of the low fidelity prot
 
 # User Testing Findings
 
+Overall, our interviewees found the prototypes very intuitive and logical to follow once we explained the 10 UI prototypes to them. They were able to navigate through our tasks outlined above very easily, and gave insightful feedback regarding the user experience. Specifically, they enjoyed the simplistic nature of the profile page and the emphasis of adding hobbies and communities. They also noted that the shared events or future event attending feature of the friend page was very helpful in maintaining friendships or possibly making new ones. They also really liked the "Favorites" feature on the messenger page which would help minimize the number of clicks needed to get to a specific friend or family member.
+
+However, there were some improvements needed in the clarity of how some of the pages were organized. For example, posts on the feed and spotlights should have a repost button similar to Twitter, events should include “My Events” or “Saved Events” tabs, and a centralized tab/screen for notifications. An additional minor improvement for the individual Event page would include adding a count of Close Friends attending. Larger-scale improvements were mostly regarding decluttering the social landing page and streamlining that interface for mobile users by collapsing and expanding the “members” and “community” tabs, widening the feed section, and including conversation/text channels within these communities for specific topics. The task that took the longest for our interviewees was responding to an invite for a barbeque dinner. We realized that the current All Events page does not have a section for events someone is invited to, so we would redesign the top bars. We will improve this to have “Popular | Communities | Invited | RSVP’d” to better organize this section.
+
+# Initial High Fidelity Prototypes and User Testing Round 2
+
+Our biggest takeaways from user testing was that our target audience values viewing family/friend photos, finding events, and maintaining communication with their friends and family. They also want a simplified experience with minimal clicks, which is why we decluttered many of the pages and placed an emphasis on their desired functions. We also learned that users in our target audience do not want to meet new people online, but would be happy to make friends in-person at an event and then connect online. Our prototypes follow our point-of-view because we place a heavy emphasis on community-building through communities, hobbies, and events, which are the best way for senior citizens to stay active and reach a higher level of happiness and fulfillment. This is what we kept in mind when designing these prototypes below.
+
+<img src="assets/Frame 10.png" class="center">
+
+The interviewees stated that between the two versions of the social landing pages on the bottom left of the image, they preferred the one on the furthest left due to its more straightforward and intuitive layout. In regards to the two versions of the home screen on the top right of the image, the users preferred the second from left as it was a format they were much more familiar with. They also mentioned that it was confusing to navigate to the all events page on the bottom right of the image (which was because we forgot to add that button to the home screen!). Another feature the interviewees thought would be good to include is a text channel specifically made for an event to make coordinating details easier for attendees.
+
+# Final High Fidelity Mockups
+
+After gathering all of the feedback from the second round of user testing as well as general brainstorming to make any last minute changes, we have created our final redesigns as shown below. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
